@@ -20,9 +20,11 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interestested in using BigML for the data set to find out answers to the following questions:
 
 1.How much expensive the international calls are ?
+
 2.what things lead to dissatisfaction among the telecom operator’s customers ?
+
 3.how customer service call relates to churn ?
-Let us consider the following scenarios for the further analysis of the data
+
 
 ## File Descriptions <a name="files"></a>
 
